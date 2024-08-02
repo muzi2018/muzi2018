@@ -3,7 +3,7 @@
 
 **Puoi chiamarmi Antonio** 👯
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?muzi2018=LouisLiu00&theme=merko&custom_title=Louis%20活动图&hide_border=true&point=FFFFFF&days=50)](https://github.com/LouisLiu00)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LouisLiu00&theme=merko&custom_title=Louis%20活动图&hide_border=true&point=FFFFFF&days=50)](https://github.com/LouisLiu00)
 
 <!--
 **muzi2018/muzi2018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
