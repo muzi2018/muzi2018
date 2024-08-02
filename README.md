@@ -1,7 +1,7 @@
 ## Hi there 👋
-Io sono Weijie Wang, di cina. 
+**Io sono Weijie Wang, di cina.** 
 
-Puoi chiamarmi Antonio 👯
+**Puoi chiamarmi Antonio** 👯
 <!--
 **muzi2018/muzi2018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
