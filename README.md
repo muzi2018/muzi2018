@@ -1,7 +1,5 @@
 ## Hi there 👋
-**Io sono Weijie Wang, di cina.** 
-
-**Puoi chiamarmi Antonio** 👯
+ 👯
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=muzi2018&theme=merko&custom_title=muzi2018%20Attivita&hide_border=true&point=FFFFFF&days=50)](https://github.com/muzi2018)
 
